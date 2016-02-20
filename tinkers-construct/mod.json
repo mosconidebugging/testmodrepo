@@ -1,0 +1,13 @@
+{
+  "name" : "tinkers-construct",
+  "author" : "",
+  "description" : "",
+  "url" : "http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct",
+  "type" : "mod",
+  "versions" : {
+    "1.8.3b" : {
+      "file" : "TConstruct-1.7.10-1.8.3b.jar",
+      "minecraft" : "1.7.10"
+    }
+  }
+}

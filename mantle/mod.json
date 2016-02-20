@@ -1,0 +1,13 @@
+{
+  "name" : "mantle",
+  "author" : "",
+  "description" : "",
+  "url" : "http://minecraft.curseforge.com/mc-mods/74924-mantle",
+  "type" : "mod",
+  "versions" : {
+    "0.3.2" : {
+      "file" : "Mantle-1.7.10-0.3.2.jar",
+      "minecraft" : "1.7.10"
+    }
+  }
+}
