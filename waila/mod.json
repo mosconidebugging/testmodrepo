@@ -1,0 +1,13 @@
+{
+  "name" : "waila",
+  "author" : "",
+  "description" : "",
+  "url" : "http://minecraft.curseforge.com/mc-mods/73488-waila",
+  "type" : "mod",
+  "versions" : {
+    "1.5.10" : {
+      "file" : "Waila-1.5.10_1.7.10.jar",
+      "minecraft" : "1.7.10"
+    }
+  }
+}
